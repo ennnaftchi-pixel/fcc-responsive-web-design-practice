@@ -75,3 +75,13 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
+### 5. **XYZ Bookstore Page**
+**File:** `xyz-bookstore.html`
+
+- Simple bookstore webpage layout  
+- Uses headings, paragraphs, buttons, and semantic cards  
+- Focuses on structure, readability, and semantic HTML
+
+---
+
+### 6.
