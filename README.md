@@ -1,2 +1,53 @@
-# fcc-responsive-web-design-practice
-Practice files from FreeCodeCamp’s Responsive Web Design curriculum (HTML &amp; CSS fundamentals).
+# FreeCodeCamp Responsive Web Design Practice
+
+This repository contains **HTML and CSS projects** completed as part of **FreeCodeCamp’s Responsive Web Design curriculum**.  
+The focus is on **learning core web fundamentals** and building a strong foundation for front-end development.
+
+---
+
+## About This Repository
+
+The files in this repository were created while following FreeCodeCamp’s **Responsive Web Design** course.
+
+Each exercise focuses on:
+- Writing clean, semantic HTML  
+- Understanding how content is structured on the web  
+- Preparing for responsive design using CSS  
+
+These projects represent my **early front-end learning journey** and are intentionally simple, clear, and easy to understand.
+
+---
+
+## Curriculum Overview
+
+The FreeCodeCamp Responsive Web Design curriculum covers:
+
+- Basic HTML and HTML5  
+- CSS fundamentals  
+- Visual Design  
+- Accessibility  
+- Responsive layouts  
+- Best practices for structuring web pages  
+
+---
+
+## Purpose of This Repository
+
+This repository acts as a **learning log** and reference point for my front-end development progress.
+
+The code prioritizes **clarity and learning** over advanced optimization.  
+Larger and more polished projects will live in separate repositories.
+
+---
+
+## Projects (from easiest → hardest)
+
+### 1. **HTML, CSS & JavaScript Introduction**
+**File:** `01-html-css-js-introduction.html`
+
+- Basic page structure using semantic HTML  
+- Introduces the roles of HTML, CSS, and JavaScript  
+- Focuses on content hierarchy and readability  
+
+---
+
