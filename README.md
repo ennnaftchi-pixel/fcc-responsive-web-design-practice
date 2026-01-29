@@ -84,4 +84,13 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
-### 6.
+### 6. **Travel Agency Page**
+**File:** `travel-agency.html`
+
+- Travel agency webpage showcasing packages and top itineraries  
+- Uses headings, paragraphs, lists, links, images, and figures  
+- Focuses on semantic HTML, accessibility, and content organization
+
+---
+
+### 7. 
