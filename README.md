@@ -42,8 +42,7 @@ Larger and more polished projects will live in separate repositories.
 
 ## HTML Projects (from easiest → hardest)
 
-### 1. **HTML, CSS & JavaScript Introduction**
-**File:** `html-css-js-introduction.html`
+### 1. **HTML, CSS & JavaScript Introduction** (`html-css-js-introduction.html`)
 
 - Basic page structure using semantic HTML  
 - Introduces the roles of HTML, CSS, and JavaScript  
@@ -51,12 +50,19 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
-### 2. **Pet Adoption Page**
-**File:** `pet-adoption.html`
+### 2. **Pet Adoption Page** (`pet-adoption.html`)
 
 - Simple webpage for a pet adoption center  
 - Introduces images (`<img>`), links (`<a>`), and semantic sections  
 - Focuses on content hierarchy and accessibility
+
+---
+
+### 3. **CatPhotoApp** (`cat-photo-app.html`)
+
+- Cat photo gallery webpage  
+- Uses headings, paragraphs, lists, links, images, and figures  
+- Focuses on semantic HTML, accessibility, and content structure
 
 ---
 
