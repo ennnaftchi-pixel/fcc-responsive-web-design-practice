@@ -93,4 +93,13 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
-### 7. 
+### 7. **HTML Video Element**
+**File:** `html-video-element.html`
+
+- Demonstrates embedding a video using the HTML `<video>` element  
+- Includes multiple source formats for browser compatibility, poster image, and controls  
+- Focuses on semantic structure and accessibility for multimedia content
+
+---
+
+### 8. 
