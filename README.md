@@ -66,3 +66,12 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
+### 4. **Classic Chocolate Chip Cookies**
+**File:** `chocolate-chip-cookies.html`
+
+- Recipe webpage showcasing ingredients and instructions  
+- Uses headings, paragraphs, lists, and images  
+- Focuses on semantic HTML, content organization, and readability
+
+---
+
