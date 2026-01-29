@@ -40,14 +40,23 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
-## Projects (from easiest → hardest)
+## HTML Projects (from easiest → hardest)
 
 ### 1. **HTML, CSS & JavaScript Introduction**
-**File:** `01-html-css-js-introduction.html`
+**File:** `html-css-js-introduction.html`
 
 - Basic page structure using semantic HTML  
 - Introduces the roles of HTML, CSS, and JavaScript  
 - Focuses on content hierarchy and readability  
+
+---
+
+### 2. **Pet Adoption Page**
+**File:** `pet-adoption.html`
+
+- Simple webpage for a pet adoption center  
+- Introduces images (`<img>`), links (`<a>`), and semantic sections  
+- Focuses on content hierarchy and accessibility
 
 ---
 
