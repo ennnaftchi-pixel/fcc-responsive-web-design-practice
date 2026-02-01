@@ -102,4 +102,15 @@ Larger and more polished projects will live in separate repositories.
 
 ---
 
-### 8. 
+### 8. HTML Audio and Video Player 
+**File:** `html-audio-video-player.html`
+Demonstrates usage of the HTML `<video>` and `<audio>` elements with multiple sources, controls, looping, and fallback text.
+
+---
+
+### 9. SVG Heart Icon
+**File:** `svg-heart-icon.html`
+Simple inline SVG example rendering a heart icon using the `<svg>` and `<path>` elements.
+
+---
+
