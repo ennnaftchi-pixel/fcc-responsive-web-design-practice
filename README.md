@@ -115,7 +115,9 @@ This repository serves as a **learning log** and reference point for my front-en
 - A page showcasing favorite videos embedded via `<iframe>`  
 - Includes sections for relaxing nature scenes, tech talks, and fun animal videos  
 
-### Survey Form
-**File:** `html/basic-html/survey-form.html`  
 
-- Feedback form demonstrating input types: text, email, number, dropdown, radio buttons, checkboxes, textarea, and submit button  
+
+### Survey Form
+**File:** html/survey-form.html
+
+- Feedback form demonstrating input types: text, email, number, dropdown, radio buttons, checkboxes, textarea, and submit button
