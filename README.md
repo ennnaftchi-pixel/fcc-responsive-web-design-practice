@@ -211,6 +211,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Images have descriptive `alt` attributes  
 - Shows usage of visual rating while remaining screen reader-friendly
 
+### Multimedia Player
+**File:** `html/accessibility/multimedia-player.html`
+
+- Demonstrates accessible multimedia playback  
+- Includes `<audio>` and `<video>` with controls and `aria-label`s  
+- Video includes `<track>` for subtitles  
+- Transcript provided for screen readers and accessibility
+
 ---
 
 ## CSS Projects
