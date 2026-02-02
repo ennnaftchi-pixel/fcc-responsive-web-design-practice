@@ -196,6 +196,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - Uses `<button>` and `<input type="range">` with `aria-labelledby` for screen reader support  
 - Focuses on semantic structure and accessible labeling
 
+### Checkout Page
+**File:** `html/accessibility/checkout-page.html`
+
+- Demonstrates accessible form design for checkout/payment  
+- Uses `<label>`s, `aria-describedby`, and semantic `<section>`s for accessibility  
+- Focuses on clear instructions and screen reader-friendly structure
+
 ---
 
 ## CSS Projects
