@@ -114,3 +114,9 @@ Simple inline SVG example rendering a heart icon using the `<svg>` and `<path>` 
 
 ---
 
+### iframe Video Embed
+**File:** html/iframe-video-embed.html
+Shows how to embed a YouTube video using the HTML `<iframe>` element with proper permissions and fullscreen support.
+
+---
+
