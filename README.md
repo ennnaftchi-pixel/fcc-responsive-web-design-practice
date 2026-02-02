@@ -189,6 +189,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - Includes proper `label` association for screen readers  
 - Focuses on semantic structure and usability
 
+### Accessible Audio Controls
+**File:** `html/accessibility/accessible-audio-controls.html`
+
+- Demonstrates accessible interactive controls  
+- Uses `<button>` and `<input type="range">` with `aria-labelledby` for screen reader support  
+- Focuses on semantic structure and accessible labeling
+
 ---
 
 ## CSS Projects
