@@ -115,6 +115,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - A page showcasing favorite videos embedded via `<iframe>`  
 - Includes sections for relaxing nature scenes, tech talks, and fun animal videos  
 
+### Web Browsers List
+**File:** html/semantic-html/web-browsers-list.html
+
+- Demonstrates semantic HTML using `<dl>`, `<dt>`, and `<dd>` elements  
+- Lists major web browsers with descriptions  
+- Focuses on accessibility, readability, and structured content
+
 
 
 ### Survey Form
