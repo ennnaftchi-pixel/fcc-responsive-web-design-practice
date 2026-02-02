@@ -151,6 +151,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates column headers and table footers  
 - Focuses on proper table structure and readability
 
+### Book Catalog Table
+**File:** `html/forms-and-tables/book-catalog-table.html`
+
+- Structured catalog table of books  
+- Uses `<caption>`, `<thead>`, `<tbody>`, and `<tfoot>`  
+- Demonstrates column headers and grouped table sections  
+- Focuses on semantic table structure and accessibility
 
 
 ### Survey Form
