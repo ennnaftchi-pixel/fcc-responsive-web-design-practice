@@ -122,6 +122,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - Lists major web browsers with descriptions  
 - Focuses on accessibility, readability, and structured content
 
+### Quincy's Tips for Getting a Developer Job
+**File:** html/semantic-html/quincy-dev-job-tips.html
+
+- Demonstrates semantic HTML using `<main>`, `<section>`, `<blockquote>`, `<q>`, and `<cite>`  
+- Organizes tips from Quincy Larson about networking, building a reputation, and envisioning success  
+- Focuses on accessibility, semantic structure, and content hierarchy
+
 
 
 ### Survey Form
