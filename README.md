@@ -143,6 +143,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Uses `<fieldset>` and `<legend>` for better accessibility and grouping  
 - Focuses on semantic markup, form structure, and clarity
 
+### Calculus Final Exams Table
+**File:** `html/forms-and-tables/calculus-final-exams-table.html`
+
+- Semantic table displaying exam grades  
+- Uses `<caption>`, `<thead>`, `<tbody>`, and `<tfoot>`  
+- Demonstrates column headers and table footers  
+- Focuses on proper table structure and readability
+
 
 
 ### Survey Form
