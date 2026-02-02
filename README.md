@@ -181,6 +181,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates accessible table structure  
 - Focuses on screen reader clarity and semantic markup
 
+### Accessible Donation Form
+**File:** `html/accessibility/accessible-donation-form.html`
+
+- Simple donation form with text, email, number inputs, checkbox, and submit button  
+- Demonstrates accessible form markup  
+- Includes proper `label` association for screen readers  
+- Focuses on semantic structure and usability
+
 ---
 
 ## CSS Projects
