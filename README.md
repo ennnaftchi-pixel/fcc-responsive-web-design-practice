@@ -161,7 +161,7 @@ This repository serves as a **learning log** and reference point for my front-en
 
 
 ### Survey Form
-**File:** html/survey-form.html
+**File:** `html/survey-form.html`
 
 - Feedback form demonstrating input types: text, email, number, dropdown, radio buttons, checkboxes, textarea, and submit button
 
@@ -172,6 +172,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Uses header, nav, main, article, and footer elements  
 - Includes labeled navigation and structured headings  
 - Focuses on accessibility and screen reader friendliness
+
+### Accessible Conference Schedule Table
+**File:** `html/accessibility/accessible-conference-schedule-table.html`
+
+- Multi-track conference schedule table  
+- Uses caption, column and row scopes, and colspan  
+- Demonstrates accessible table structure  
+- Focuses on screen reader clarity and semantic markup
 
 ---
 
