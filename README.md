@@ -136,6 +136,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - A blog page with About, Posts, and Contact sections  
 - Focuses on clear content structure, accessibility, and semantic markup
 
+### Hotel Feedback Form
+**File:** html/forms-and-tables/hotel-feedback-form.html
+
+- Demonstrates creating a **complete HTML form** with various input types: text, email, number, radio buttons, checkboxes, select dropdowns, textarea  
+- Uses `<fieldset>` and `<legend>` for better accessibility and grouping  
+- Focuses on semantic markup, form structure, and clarity
+
 
 
 ### Survey Form
