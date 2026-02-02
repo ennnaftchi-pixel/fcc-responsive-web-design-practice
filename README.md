@@ -129,6 +129,13 @@ This repository serves as a **learning log** and reference point for my front-en
 - Organizes tips from Quincy Larson about networking, building a reputation, and envisioning success  
 - Focuses on accessibility, semantic structure, and content hierarchy
 
+### Mr. Whiskers' Blog
+**File:** html/semantic-html/mr-whiskers-blog.html
+
+- Demonstrates semantic HTML with `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`, `<figure>`, `<figcaption>`, and `<address>`  
+- A blog page with About, Posts, and Contact sections  
+- Focuses on clear content structure, accessibility, and semantic markup
+
 
 
 ### Survey Form
