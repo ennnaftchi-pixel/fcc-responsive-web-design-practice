@@ -203,6 +203,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Uses `<label>`s, `aria-describedby`, and semantic `<section>`s for accessibility  
 - Focuses on clear instructions and screen reader-friendly structure
 
+### Movie Review
+**File:** `html/accessibility/movie-review.html`
+
+- Demonstrates accessible movie review layout  
+- Uses semantic elements `<main>`, `<h1>`, `<h2>`, `<ul>`  
+- Images have descriptive `alt` attributes  
+- Shows usage of visual rating while remaining screen reader-friendly
+
 ---
 
 ## CSS Projects
