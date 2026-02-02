@@ -165,6 +165,14 @@ This repository serves as a **learning log** and reference point for my front-en
 
 - Feedback form demonstrating input types: text, email, number, dropdown, radio buttons, checkboxes, textarea, and submit button
 
+### Accessible Blog Layout
+**File:** `html/accessibility/accessible-blog-layout.html`
+
+- Semantic blog layout using landmarks  
+- Uses header, nav, main, article, and footer elements  
+- Includes labeled navigation and structured headings  
+- Focuses on accessibility and screen reader friendliness
+
 ---
 
 ## CSS Projects
