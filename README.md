@@ -221,4 +221,12 @@ This repository serves as a **learning log** and reference point for my front-en
 
 ---
 
-## CSS Projects
+## 🎨 CSS Projects
+
+### Cafe Menu Styling
+**File:** `css/basic-css/cafe-menu.css`
+
+- Styles a cafe menu layout  
+- Demonstrates typography, background images, spacing, alignment, and pseudo-classes  
+- Uses class selectors and grouped selectors  
+- Includes hover/visited/active link states  
