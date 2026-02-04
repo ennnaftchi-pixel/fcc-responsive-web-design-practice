@@ -232,23 +232,37 @@ This repository serves as a **learning log** and reference point for my front-en
 - Includes hover/visited/active link states  
 
 ### Business Card
-**Folder:** css/basic-css/business-card/
+**Folder:** `css/basic-css/business-card/`
 
 - Simple styled business card layout
 - Demonstrates CSS box model, spacing, and typography
 - Links HTML with external stylesheet
 
 ### Styled To-Do List
-**Folder:** css/basic-css/styled-todo-list/
+**Folder:** `css/basic-css/styled-todo-list/`
 
 - Styled checklist layout using CSS
 - Demonstrates link pseudo-classes (:link, :visited, :hover, :active, :focus)
 - Includes nested lists and accessibility-friendly focus styles
 
 ### Blog Post Card
-**Folder:** css/basic-css/blog-post-card/
+**Folder:** `css/basic-css/blog-post-card/`
 
 - Styled blog preview card component
 - Demonstrates layout, shadows, borders, and rounded corners
 - Includes hover effects and button-style links
+
+### Event Flyer
+**Files:** `css/design/event-flyer/index.html` & `styles.css`  
+
+- Styled event flyer page with header image and content sections  
+- Focuses on layout, section spacing, rounded corners, and typography
+
+### Greeting Card
+**Folder:** `css/design/greeting-card/`
+
+- Interactive greeting card layout
+- Uses CSS hover, focus, active, visited, and pseudo-elements
+- Sections hidden by default and revealed using anchor targeting (`:target`)
+- Includes hover and transform effects for interactivity
 
