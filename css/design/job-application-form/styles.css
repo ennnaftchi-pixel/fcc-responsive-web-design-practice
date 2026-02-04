@@ -1,0 +1,109 @@
+/* Body and container */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1e3a8a; /* dark blue */
+  color: whitesmoke;
+  padding: 40px;
+  text-align: center;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.1);
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Labels */
+label {
+  display: block;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+/* Inputs, select, textarea */
+input, select, textarea {
+  width: 95%;
+  padding: 10px;
+  margin: 10px 0 20px 0;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: rgba(255,255,255,0.1);
+  color: whitesmoke;
+  font-size: 1rem;
+}
+
+/* First input field special style */
+input:first-of-type {
+  border-radius: 20px;
+  border: 2px solid gold;
+}
+
+/* Focus pseudo-class */
+input:focus,
+textarea:focus {
+  border-color: lightgreen;
+  outline: none;
+}
+
+/* Invalid state */
+input:invalid,
+select:invalid,
+textarea:invalid {
+  border-color: red;
+}
+
+/* Valid state */
+input:valid,
+select:valid,
+textarea:valid {
+  border-color: green;
+}
+
+/* Submit button */
+button {
+  background-color: royalblue;
+  color: whitesmoke;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+/* Button hover */
+button:hover {
+  background-color: midnightblue;
+}
+
+/* Radio group */
+.radio-group {
+  margin: 20px 0;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.radio-group input[type="radio"] {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid gray;
+  border-radius: 50%;
+  margin-right: 10px;
+  vertical-align: middle;
+  position: relative;
+}
+
+/* Checked state for radio buttons */
+.radio-group input[type="radio"]:checked {
+  border-color: gold;
+  background-color: lightgreen;
+  box-shadow: 0 0 5px gold;
+}
+
+/* Change label color when radio is checked */
+.radio-group input[type="radio"]:checked + label {
+  color: lightgreen;
+}

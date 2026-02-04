@@ -274,3 +274,10 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates accessible form layout with proper labeling
 - Includes background styling, card layout, and hover effects on the submit button
 
+### Job Application Form
+**Folder:** `css/design/job-application-form/`
+
+- Styled job application form with inputs, select, textarea, radio buttons, and submit button
+- Demonstrates focus, valid, and invalid states using CSS pseudo-classes
+- Includes container layout, background styling, and accessible form structure
+- Shows custom styling for radio buttons and hover effects on the submit button
