@@ -230,3 +230,10 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates typography, background images, spacing, alignment, and pseudo-classes  
 - Uses class selectors and grouped selectors  
 - Includes hover/visited/active link states  
+
+### Business Card
+**Folder:** css/basic-css/business-card/
+
+- Simple styled business card layout
+- Demonstrates CSS box model, spacing, and typography
+- Links HTML with external stylesheet
