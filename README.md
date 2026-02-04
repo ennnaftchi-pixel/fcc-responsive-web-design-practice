@@ -266,3 +266,11 @@ This repository serves as a **learning log** and reference point for my front-en
 - Sections hidden by default and revealed using anchor targeting (`:target`)
 - Includes hover and transform effects for interactivity
 
+### Parent Teacher Conference Form
+**Folder:** `css/design/parent-teacher-conference-form/`
+
+- Styled form for scheduling parent-teacher conferences
+- Uses fieldsets, legends, inputs, radio buttons, textareas, and submit button
+- Demonstrates accessible form layout with proper labeling
+- Includes background styling, card layout, and hover effects on the submit button
+
