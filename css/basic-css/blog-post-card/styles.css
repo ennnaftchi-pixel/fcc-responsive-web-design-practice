@@ -1,0 +1,56 @@
+/* Page background */
+body {
+    background-color: #eef2f7;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+/* Card container */
+.blog-post-card {
+    background-color: white;
+    width: 380px;
+    border-radius: 14px;
+    text-align: left;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* Image */
+.post-img {
+    width: 100%;
+    display: block;
+    border-bottom: 4px solid #e5e7eb;
+}
+
+/* Content area */
+.post-content {
+    padding: 18px;
+}
+
+/* Text styles */
+.post-title {
+    color: #1f2937;
+    margin: 12px 0;
+}
+
+.post-excerpt {
+    color: #4b5563;
+    margin: 12px 0;
+}
+
+/* Button link */
+.read-more {
+    display: inline-block;
+    color: white;
+    background-color: #2563eb;
+    margin: 12px 0;
+    padding: 10px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hover effect */
+.read-more:hover {
+    background-color: #1d4ed8;
+}

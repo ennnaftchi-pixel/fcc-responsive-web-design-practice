@@ -245,3 +245,10 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates link pseudo-classes (:link, :visited, :hover, :active, :focus)
 - Includes nested lists and accessibility-friendly focus styles
 
+### Blog Post Card
+**Folder:** css/basic-css/blog-post-card/
+
+- Styled blog preview card component
+- Demonstrates layout, shadows, borders, and rounded corners
+- Includes hover effects and button-style links
+
