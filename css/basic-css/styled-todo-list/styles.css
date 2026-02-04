@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.todo-list {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.todo-list > li {
+    margin-bottom: 15px;
+}
+
+.sub-item {
+    margin-top: 8px;
+    margin-left: 28px;
+}
+
+/* Remove text decoration from all links */
+.sub-item-link {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Unvisited */
+.sub-item-link:link {
+    color: #2563eb;
+}
+
+/* Visited */
+.sub-item-link:visited {
+    color: #7c3aed;
+}
+
+/* Hover */
+.sub-item-link:hover {
+    color: #059669;
+}
+
+/* Active (clicked) */
+.sub-item-link:active {
+    color: #dc2626;
+}
+
+/* Focus */
+.sub-item-link:focus {
+    outline: 3px solid #f59e0b;
+    outline-offset: 2px;
+}

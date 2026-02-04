@@ -237,3 +237,11 @@ This repository serves as a **learning log** and reference point for my front-en
 - Simple styled business card layout
 - Demonstrates CSS box model, spacing, and typography
 - Links HTML with external stylesheet
+
+### Styled To-Do List
+**Folder:** css/basic-css/styled-todo-list/
+
+- Styled checklist layout using CSS
+- Demonstrates link pseudo-classes (:link, :visited, :hover, :active, :focus)
+- Includes nested lists and accessibility-friendly focus styles
+
