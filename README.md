@@ -338,3 +338,13 @@ This repository serves as a **learning log** and reference point for my front-en
 
 ---
 
+## Styling Forms
+
+### Registration Form
+**Folder:** `css/styling-forms/registration-form/`
+
+- Fully styled multi-field registration form  
+- Uses fieldsets and legends for structure  
+- Demonstrates styling of inputs, textarea, select, radio buttons, and file inputs  
+- Includes responsive sizing and dark theme styling  
+- Focuses on readable and accessible form layout
