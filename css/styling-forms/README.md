@@ -25,3 +25,10 @@ Projects demonstrate input fields, textareas, buttons, and container styling whi
 - Simple game settings panel using checkboxes
 - Demonstrates custom checkbox styling with pseudo-classes and pseudo-elements
 - Includes hover effects, checked states, and container layout
+
+#### Feature Selection Page
+**Folder:** `css/styling-forms/feature-selection-page/`
+
+- Selection interface using custom-styled checkboxes
+- Demonstrates pseudo-classes (:checked) and pseudo-elements (::after)
+- Uses flexbox for layout and custom fonts for labels

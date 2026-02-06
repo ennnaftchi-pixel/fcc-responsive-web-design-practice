@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.feature-card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.feature-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+/* Checkbox base styling */
+.feature-card input[type="checkbox"] {
+  appearance: none;           /* Remove default checkbox style */
+  width: 25px;
+  height: 25px;
+  border: 2px solid #333;    /* border width, style, color */
+  border-radius: 4px;
+  background-color: white;    /* background when unchecked */
+  cursor: pointer;
+  position: relative;
+}
+
+/* Checked state */
+.feature-card input[type="checkbox"]:checked {
+  background-color: #ff5733;  /* background color when checked */
+  border-color: #c70039;      /* border color when checked */
+}
+
+/* Add checkmark */
+.feature-card input[type="checkbox"]:checked::after {
+  content: "✓";
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  line-height: 25px;   /* vertically center the checkmark */
+}

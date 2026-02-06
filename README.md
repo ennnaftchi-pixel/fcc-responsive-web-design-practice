@@ -362,5 +362,12 @@ Projects focused on styling and enhancing form layouts.
 - Demonstrates pseudo-classes (:checked) and pseudo-elements (::after)
 - Focuses on accessibility and interactive styling
 
+### Feature Selection Page
+**Folder:** `css/styling-forms/feature-selection-page/`
+
+- Custom-styled feature selection checkboxes
+- Demonstrates pseudo-classes (:checked) and pseudo-elements (::after)
+- Focuses on layout with flexbox and user interactivity
+
 ---
 
