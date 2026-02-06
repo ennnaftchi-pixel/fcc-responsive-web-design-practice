@@ -340,11 +340,20 @@ This repository serves as a **learning log** and reference point for my front-en
 
 ## Styling Forms
 
-### Registration Form
-**Folder:** `css/styling-forms/registration-form/`
+Projects focused on styling and enhancing form layouts.
 
-- Fully styled multi-field registration form  
-- Uses fieldsets and legends for structure  
-- Demonstrates styling of inputs, textarea, select, radio buttons, and file inputs  
-- Includes responsive sizing and dark theme styling  
-- Focuses on readable and accessible form layout
+### Registration Form
+**Folder:** `css/styling-forms/registration-form/`  
+
+- Styled registration form with multiple input types and pseudo-classes  
+- Focuses on layout, accessibility, and hover/focus effects  
+
+### Contact Form
+**Folder:** `css/styling-forms/contact-form/`  
+
+- Simple contact form layout  
+- Demonstrates inputs, textarea, labels, submit button styling  
+- Includes hover effects and container styling
+
+---
+

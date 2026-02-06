@@ -1,38 +1,20 @@
-# CSS Styling Forms
+# Styling Forms Chapter
 
-This folder contains projects focused on **styling HTML forms using CSS** as part of the FreeCodeCamp Responsive Web Design curriculum.
+This chapter contains **CSS projects focused on styling forms**.
 
-The exercises focus on improving form usability and appearance while keeping proper semantic and accessible markup.
+Projects demonstrate input fields, textareas, buttons, and container styling while keeping the layout clean and accessible.
 
----
+### Projects
 
-## Topics Covered
+#### Registration Form
+**Folder:** `css/styling-forms/registration-form/`  
 
-- Styling form layouts
-- Fieldsets and legends
-- Input, textarea, and select styling
-- Radio buttons and checkboxes
-- Inline vs block controls
-- Form spacing and alignment
-- Submit button styling
-- Dark theme form design
+- Form with first/last name, email, password, radio buttons, file upload, select, textarea, checkbox  
+- Demonstrates pseudo-classes, container layout, and accessible form design  
 
----
+#### Contact Form
+**Folder:** `css/styling-forms/contact-form/`  
 
-## Projects
-
-### Registration Form
-**Folder:** `registration-form/`
-
-- Fully styled multi-field registration form
-- Uses fieldsets and legends for structure
-- Demonstrates styling of:
-  - text inputs
-  - email and password fields
-  - radio buttons
-  - checkboxes
-  - select menus
-  - textarea
-  - file inputs
-- Includes responsive width constraints
-- Focuses on readable, accessible form layout
+- Simple contact form layout  
+- Uses inputs, textarea, labels, and a styled submit button  
+- Demonstrates container layout, box-shadow, and hover effects
