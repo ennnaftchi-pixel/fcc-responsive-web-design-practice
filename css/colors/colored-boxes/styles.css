@@ -1,0 +1,45 @@
+/* User Story 1 */
+body {
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+}
+
+/* Grid container */
+.color-grid {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+/* visible size */
+.color-box {
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+}
+
+/* hex color */
+.color1 {
+  background-color: #ff5733;
+}
+
+/* rgb color */
+.color2 {
+  background-color: rgb(60, 140, 220);
+}
+
+/* named color */
+.color3 {
+  background-color: seagreen;
+}
+
+/* hsl color */
+.color4 {
+  background-color: hsl(280, 70%, 55%);
+}
+
+/* any valid color */
+.color5 {
+  background-color: gold;
+}

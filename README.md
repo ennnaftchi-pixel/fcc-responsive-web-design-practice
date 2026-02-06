@@ -7,13 +7,13 @@ The focus is on **learning core web fundamentals** and building a strong foundat
 
 ## About This Repository
 
-The projects in this repository were created while following FreeCodeCamp’s **Responsive Web Design** course.  
+The projects in this repository were created while following FreeCodeCamp’s **Responsive Web Design** course.
 
-Each exercise focuses on:  
+Each exercise focuses on:
 
-- Writing **clean, semantic HTML**  
-- Structuring content for clarity and readability  
-- Preparing for **responsive design** and CSS styling  
+- Writing **clean, semantic HTML**
+- Structuring content for clarity and readability
+- Preparing for **responsive design** and CSS styling
 
 These projects represent my **early front-end learning journey** and are intentionally simple and clear, highlighting learning over advanced optimization.
 
@@ -21,263 +21,320 @@ These projects represent my **early front-end learning journey** and are intenti
 
 ## Curriculum Overview
 
-The FreeCodeCamp Responsive Web Design curriculum covers:  
+The FreeCodeCamp Responsive Web Design curriculum covers:
 
-- Basic HTML and HTML5  
-- CSS fundamentals  
-- Visual design principles  
-- Accessibility best practices  
-- Responsive layouts  
-- Semantic and structured web pages  
+- Basic HTML and HTML5
+- CSS fundamentals
+- Visual design principles
+- Accessibility best practices
+- Responsive layouts
+- Semantic and structured web pages
 
 ---
 
 ## Purpose of This Repository
 
-This repository serves as a **learning log** and reference point for my front-end development progress.  
+This repository serves as a **learning log** and reference point for my front-end development progress.
 
-- The code prioritizes **clarity and learning** over advanced optimization.  
+- The code prioritizes **clarity and learning** over advanced optimization.
 - Larger and more polished projects will live in separate repositories.
 
 ---
 
-## HTML Projects
+# HTML Projects
 
 ### HTML, CSS & JavaScript Introduction
-**File:** `html/basic-html/html-css-js-introduction.html`  
+**File:** `html/basic-html/html-css-js-introduction.html`
 
-- Basic page structure using semantic HTML  
-- Introduces the roles of HTML, CSS, and JavaScript  
-- Focuses on content hierarchy and readability  
+- Basic page structure using semantic HTML
+- Introduces the roles of HTML, CSS, and JavaScript
+- Focuses on content hierarchy and readability
+
+---
 
 ### Pet Adoption Page
-**File:** `html/basic-html/pet-adoption.html`  
+**File:** `html/basic-html/pet-adoption.html`
 
-- Simple webpage for a pet adoption center  
-- Introduces images (`<img>`), links (`<a>`), and semantic sections  
-- Focuses on content hierarchy and accessibility  
+- Simple webpage for a pet adoption center
+- Introduces images, links, and semantic sections
+- Focuses on accessibility and structure
+
+---
 
 ### CatPhotoApp
-**File:** `html/basic-html/cat-photo-app.html`  
+**File:** `html/basic-html/cat-photo-app.html`
 
-- Cat photo gallery webpage  
-- Uses headings, paragraphs, lists, links, images, and figures  
-- Focuses on semantic HTML, accessibility, and content structure  
+- Cat photo gallery webpage
+- Uses headings, lists, images, and figures
+- Focuses on semantic HTML and accessibility
+
+---
 
 ### Classic Chocolate Chip Cookies
-**File:** `html/basic-html/chocolate-chip-cookies.html`  
+**File:** `html/basic-html/chocolate-chip-cookies.html`
 
-- Recipe webpage showcasing ingredients and instructions  
-- Uses headings, paragraphs, lists, and images  
-- Focuses on semantic HTML, content organization, and readability  
+- Recipe webpage with ingredients and instructions
+- Uses lists and images
+- Focuses on content organization
+
+---
 
 ### XYZ Bookstore Page
-**File:** `html/basic-html/xyz-bookstore.html`  
+**File:** `html/basic-html/xyz-bookstore.html`
 
-- Simple bookstore webpage layout  
-- Uses headings, paragraphs, buttons, and semantic cards  
-- Focuses on structure, readability, and semantic HTML  
+- Simple bookstore layout
+- Uses semantic cards and buttons
+- Focuses on readability and structure
+
+---
 
 ### Travel Agency Page
-**File:** `html/basic-html/travel-agency-page.html`  
+**File:** `html/basic-html/travel-agency-page.html`
 
-- Travel agency webpage showcasing packages and top itineraries  
-- Uses headings, paragraphs, lists, links, images, and figures  
-- Focuses on semantic HTML, accessibility, and content organization  
+- Travel packages and itineraries page
+- Uses images, lists, and figures
+- Focuses on semantic structure
+
+---
 
 ### HTML Video Element
-**File:** `html/basic-html/html-video-element.html`  
+**File:** `html/basic-html/html-video-element.html`
 
-- Demonstrates embedding a video using the HTML `<video>` element  
-- Includes multiple source formats for browser compatibility, poster image, and controls  
-- Focuses on semantic structure and accessibility for multimedia content  
+- Demonstrates `<video>` usage
+- Multiple sources and poster image
+- Accessibility-friendly multimedia
+
+---
 
 ### HTML Audio and Video Player
-**File:** `html/basic-html/html-audio-video-player.html`  
+**File:** `html/basic-html/html-audio-video-player.html`
 
-- Demonstrates usage of `<video>` and `<audio>` elements with multiple sources, controls, looping, and fallback text  
-- Focuses on multimedia handling in HTML  
+- Demonstrates `<audio>` and `<video>`
+- Multiple formats and controls
+
+---
 
 ### SVG Heart Icon
-**File:** `html/basic-html/svg-heart-icon.html`  
+**File:** `html/basic-html/svg-heart-icon.html`
 
-- Simple inline SVG example rendering a heart icon using `<svg>` and `<path>` elements  
+- Inline SVG example using `<path>`
+
+---
 
 ### iframe Video Embed
-**File:** `html/basic-html/iframe-video-embed.html`  
+**File:** `html/basic-html/iframe-video-embed.html`
 
-- Shows how to embed a YouTube video using the HTML `<iframe>` element  
-- Includes proper permissions and fullscreen support  
+- YouTube embed using `<iframe>`
+
+---
 
 ### Video Compilation Page
-**File:** `html/basic-html/video-compilation-page.html`  
+**File:** `html/basic-html/video-compilation-page.html`
 
-- A page showcasing favorite videos embedded via `<iframe>`  
-- Includes sections for relaxing nature scenes, tech talks, and fun animal videos  
+- Multiple embedded videos
+- Structured sections
+
+---
+
+## Semantic HTML
 
 ### Web Browsers List
-**File:** html/semantic-html/web-browsers-list.html
+**File:** `html/semantic-html/web-browsers-list.html`
 
-- Demonstrates semantic HTML using `<dl>`, `<dt>`, and `<dd>` elements  
-- Lists major web browsers with descriptions  
-- Focuses on accessibility, readability, and structured content
+- Uses `<dl>`, `<dt>`, `<dd>`
+- Structured descriptive list
 
-### Quincy's Tips for Getting a Developer Job
-**File:** html/semantic-html/quincy-dev-job-tips.html
+---
 
-- Demonstrates semantic HTML using `<main>`, `<section>`, `<blockquote>`, `<q>`, and `<cite>`  
-- Organizes tips from Quincy Larson about networking, building a reputation, and envisioning success  
-- Focuses on accessibility, semantic structure, and content hierarchy
+### Quincy's Developer Job Tips
+**File:** `html/semantic-html/quincy-dev-job-tips.html`
+
+- Uses `<blockquote>`, `<cite>`, `<section>`
+- Semantic content layout
+
+---
 
 ### Mr. Whiskers' Blog
-**File:** html/semantic-html/mr-whiskers-blog.html
+**File:** `html/semantic-html/mr-whiskers-blog.html`
 
-- Demonstrates semantic HTML with `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`, `<figure>`, `<figcaption>`, and `<address>`  
-- A blog page with About, Posts, and Contact sections  
-- Focuses on clear content structure, accessibility, and semantic markup
+- Full semantic blog layout
+- Header, nav, article, footer
+
+---
+
+## Forms and Tables
 
 ### Hotel Feedback Form
-**File:** html/forms-and-tables/hotel-feedback-form.html
+**File:** `html/forms-and-tables/hotel-feedback-form.html`
 
-- Demonstrates creating a **complete HTML form** with various input types: text, email, number, radio buttons, checkboxes, select dropdowns, textarea  
-- Uses `<fieldset>` and `<legend>` for better accessibility and grouping  
-- Focuses on semantic markup, form structure, and clarity
+- Complete accessible form
+- Fieldsets and legends
+
+---
 
 ### Calculus Final Exams Table
 **File:** `html/forms-and-tables/calculus-final-exams-table.html`
 
-- Semantic table displaying exam grades  
-- Uses `<caption>`, `<thead>`, `<tbody>`, and `<tfoot>`  
-- Demonstrates column headers and table footers  
-- Focuses on proper table structure and readability
+- Semantic table with caption and footer
+
+---
 
 ### Book Catalog Table
 **File:** `html/forms-and-tables/book-catalog-table.html`
 
-- Structured catalog table of books  
-- Uses `<caption>`, `<thead>`, `<tbody>`, and `<tfoot>`  
-- Demonstrates column headers and grouped table sections  
-- Focuses on semantic table structure and accessibility
+- Structured catalog table
 
+---
 
 ### Survey Form
 **File:** `html/survey-form.html`
 
-- Feedback form demonstrating input types: text, email, number, dropdown, radio buttons, checkboxes, textarea, and submit button
+- Multi-input feedback form
+
+---
+
+## Accessibility Projects
 
 ### Accessible Blog Layout
 **File:** `html/accessibility/accessible-blog-layout.html`
 
-- Semantic blog layout using landmarks  
-- Uses header, nav, main, article, and footer elements  
-- Includes labeled navigation and structured headings  
-- Focuses on accessibility and screen reader friendliness
+- Landmark elements and navigation
+
+---
 
 ### Accessible Conference Schedule Table
 **File:** `html/accessibility/accessible-conference-schedule-table.html`
 
-- Multi-track conference schedule table  
-- Uses caption, column and row scopes, and colspan  
-- Demonstrates accessible table structure  
-- Focuses on screen reader clarity and semantic markup
+- Accessible multi-track table
+
+---
 
 ### Accessible Donation Form
 **File:** `html/accessibility/accessible-donation-form.html`
 
-- Simple donation form with text, email, number inputs, checkbox, and submit button  
-- Demonstrates accessible form markup  
-- Includes proper `label` association for screen readers  
-- Focuses on semantic structure and usability
+- Screen-reader friendly form
+
+---
 
 ### Accessible Audio Controls
 **File:** `html/accessibility/accessible-audio-controls.html`
 
-- Demonstrates accessible interactive controls  
-- Uses `<button>` and `<input type="range">` with `aria-labelledby` for screen reader support  
-- Focuses on semantic structure and accessible labeling
+- ARIA-labeled controls
+
+---
 
 ### Checkout Page
 **File:** `html/accessibility/checkout-page.html`
 
-- Demonstrates accessible form design for checkout/payment  
-- Uses `<label>`s, `aria-describedby`, and semantic `<section>`s for accessibility  
-- Focuses on clear instructions and screen reader-friendly structure
+- Accessible checkout form
+
+---
 
 ### Movie Review
 **File:** `html/accessibility/movie-review.html`
 
-- Demonstrates accessible movie review layout  
-- Uses semantic elements `<main>`, `<h1>`, `<h2>`, `<ul>`  
-- Images have descriptive `alt` attributes  
-- Shows usage of visual rating while remaining screen reader-friendly
+- Accessible rating layout
+
+---
 
 ### Multimedia Player
 **File:** `html/accessibility/multimedia-player.html`
 
-- Demonstrates accessible multimedia playback  
-- Includes `<audio>` and `<video>` with controls and `aria-label`s  
-- Video includes `<track>` for subtitles  
-- Transcript provided for screen readers and accessibility
+- Accessible audio/video with transcript
 
 ---
 
-## 🎨 CSS Projects
+# CSS Projects
+
+## Basic CSS
 
 ### Cafe Menu Styling
 **File:** `css/basic-css/cafe-menu.css`
 
-- Styles a cafe menu layout  
-- Demonstrates typography, background images, spacing, alignment, and pseudo-classes  
-- Uses class selectors and grouped selectors  
-- Includes hover/visited/active link states  
+- Typography and layout styling
+- Link pseudo-classes
+
+---
 
 ### Business Card
 **Folder:** `css/basic-css/business-card/`
 
-- Simple styled business card layout
-- Demonstrates CSS box model, spacing, and typography
-- Links HTML with external stylesheet
+- Card layout and box model
+
+---
 
 ### Styled To-Do List
 **Folder:** `css/basic-css/styled-todo-list/`
 
-- Styled checklist layout using CSS
-- Demonstrates link pseudo-classes (:link, :visited, :hover, :active, :focus)
-- Includes nested lists and accessibility-friendly focus styles
+- Checklist styling
+- Focus and hover states
+
+---
 
 ### Blog Post Card
 **Folder:** `css/basic-css/blog-post-card/`
 
-- Styled blog preview card component
-- Demonstrates layout, shadows, borders, and rounded corners
-- Includes hover effects and button-style links
+- Card component with hover effects
+
+---
+
+## Absolute and Relative Units
 
 ### Event Flyer
-**Files:** `css/design/event-flyer/index.html` & `styles.css`  
+**Folder:** `css/absolute-and-relative-units/event-flyer/`
 
-- Styled event flyer page with header image and content sections  
-- Focuses on layout, section spacing, rounded corners, and typography
+- Layout using relative and viewport units
+- Section spacing and sizing
+
+---
+
+## Pseudo-Classes and Elements
 
 ### Greeting Card
-**Folder:** `css/design/greeting-card/`
+**Folder:** `css/pseudo-classes-and-elements/greeting-card/`
 
-- Interactive greeting card layout
-- Uses CSS hover, focus, active, visited, and pseudo-elements
-- Sections hidden by default and revealed using anchor targeting (`:target`)
-- Includes hover and transform effects for interactivity
+- Interactive card
+- Uses :hover, :focus, :active, :visited
+- Uses ::before and ::after
+- Uses :target to reveal sections
+
+---
 
 ### Parent Teacher Conference Form
-**Folder:** `css/design/parent-teacher-conference-form/`
+**Folder:** `css/pseudo-classes-and-elements/parent-teacher-conference-form/`
 
-- Styled form for scheduling parent-teacher conferences
-- Uses fieldsets, legends, inputs, radio buttons, textareas, and submit button
-- Demonstrates accessible form layout with proper labeling
-- Includes background styling, card layout, and hover effects on the submit button
+- Styled form layout
+- Custom radio buttons
+- Checked and hover states
+
+---
 
 ### Job Application Form
-**Folder:** `css/design/job-application-form/`
+**Folder:** `css/pseudo-classes-and-elements/job-application-form/`
 
-- Styled job application form with inputs, select, textarea, radio buttons, and submit button
-- Demonstrates focus, valid, and invalid states using CSS pseudo-classes
-- Includes container layout, background styling, and accessible form structure
-- Shows custom styling for radio buttons and hover effects on the submit button
+- Demonstrates :focus, :valid, :invalid
+- Styled select and radio inputs
+
+---
+
+## Colors
+
+### Marker Gradients Project
+**Folder:** `css/colors/marker-gradients/`
+
+- Demonstrates rgb, rgba, hsl, hsla
+- Gradient backgrounds
+- Color shadows and blending
+
+---
+
+### Colored Boxes
+**Folder:** `css/colors/colored-boxes/`
+
+- Demonstrates multiple CSS color formats
+- Uses hex, rgb, named colors, and hsl
+- Flex layout grid of color swatches
+- Focuses on color systems and visual comparison
+
+---
+
