@@ -371,3 +371,11 @@ Projects focused on styling and enhancing form layouts.
 
 ---
 
+## The Box Model Chapter
+
+### Rothko Painting
+**Folder:** `css/the-box-model/rothko-painting/`
+
+- Abstract painting using CSS box model principles
+- Demonstrates rotations, border-radius, box-shadow, padding, and blur effects
+- Focuses on artistic layout, layering, and visual hierarchy
