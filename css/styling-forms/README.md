@@ -18,3 +18,10 @@ Projects demonstrate input fields, textareas, buttons, and container styling whi
 - Simple contact form layout  
 - Uses inputs, textarea, labels, and a styled submit button  
 - Demonstrates container layout, box-shadow, and hover effects
+
+#### Game Settings Panel
+**Folder:** `css/styling-forms/game-settings-panel/`
+
+- Simple game settings panel using checkboxes
+- Demonstrates custom checkbox styling with pseudo-classes and pseudo-elements
+- Includes hover effects, checked states, and container layout

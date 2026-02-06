@@ -355,5 +355,12 @@ Projects focused on styling and enhancing form layouts.
 - Demonstrates inputs, textarea, labels, submit button styling  
 - Includes hover effects and container styling
 
+### Game Settings Panel
+**Folder:** `css/styling-forms/game-settings-panel/`
+
+- Custom-styled game settings panel with checkboxes
+- Demonstrates pseudo-classes (:checked) and pseudo-elements (::after)
+- Focuses on accessibility and interactive styling
+
 ---
 
