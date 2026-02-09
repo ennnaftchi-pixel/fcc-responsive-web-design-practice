@@ -379,3 +379,12 @@ Projects focused on styling and enhancing form layouts.
 - Abstract painting using CSS box model principles
 - Demonstrates rotations, border-radius, box-shadow, padding, and blur effects
 - Focuses on artistic layout, layering, and visual hierarchy
+
+
+### Confidential Email
+**Folder:** `css/the-box-model/confidential-email/`
+
+- Styled confidential message layout
+- Demonstrates CSS box model spacing, borders, and centered containers
+- Uses transforms for rotated security stamps
+- Uses blur filters to hide sensitive information
