@@ -1,0 +1,5 @@
+# Treat all HTML files as HTML
+*.html linguist-language=HTML
+
+# Treat all CSS files as CSS
+*.css linguist-language=CSS
