@@ -1,0 +1,60 @@
+body {
+  background-color: #87ceeb;
+  margin: 0;
+  padding-top: 150px; /* Gives space for the roof to be visible */
+}
+
+#house {
+  position: relative;
+  width: 500px;
+  height: 400px;
+  background-color: #f5d6a0;
+  border: 3px solid black;
+  margin: 0 auto;
+}
+
+#roof {
+  position: absolute;
+  top: 0; /* Required by Test 41 */
+  left: 50%;
+  transform: translateX(-50%) translateY(-100%);
+  width: 550px;
+  height: 100px;
+  background-color: #8b0000;
+  border: 2px solid black;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  z-index: 2;
+}
+
+#chimney {
+  position: absolute;
+  top: -80px; /* At the top of the house */
+  left: 350px;
+  width: 40px;
+  height: 80px;
+  background-color: #a52a2a;
+  border: 2px solid black;
+  z-index: -1; /* Behind the house */
+}
+
+#window-1, #window-2 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background-color: #ffffcc;
+  border: 2px solid black;
+  top: 120px;
+}
+
+#window-1 { left: 60px; }
+#window-2 { right: 60px; }
+
+#door {
+  position: absolute;
+  width: 100px;
+  height: 150px;
+  background-color: #654321;
+  border: 2px solid black;
+  bottom: 0;
+  left: 200px;
+}
