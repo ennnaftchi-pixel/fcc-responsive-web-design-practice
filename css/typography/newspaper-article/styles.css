@@ -1,0 +1,61 @@
+/* Set root font size */
+html {
+  font-size: 24px;
+}
+
+/* Newspaper container */
+.newspaper {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+/* Newspaper name */
+.name {
+  font-size: 2rem;
+  font-family: 'Times New Roman', serif;
+  text-transform: uppercase;
+}
+
+/* Date */
+.date {
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
+
+/* Headline */
+.headline {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0.2em 0;
+}
+
+/* Sub-headline */
+.sub-headline {
+  font-size: 1.5em;
+  font-weight: 100;
+  font-style: italic;
+  margin: 0.2em 0 0.5em 0;
+}
+
+/* Author */
+.author {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
+
+/* Paragraph text */
+.text {
+  text-indent: 20px;
+  line-height: 2em;
+  margin-bottom: 1em;
+}
+
+/* First letter of paragraph */
+.text::first-letter {
+  font-weight: bold;
+  font-size: 2em;
+}

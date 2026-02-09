@@ -418,3 +418,10 @@ Projects focused on styling and enhancing form layouts.
 - Recreates a nutrition label using CSS typography principles
 - Focuses on fonts, spacing, alignment, and hierarchy
 - Uses flexbox and text formatting for structured layout
+
+### Newspaper Article
+**Folder:** `css/typography/newspaper-article/`
+
+- Newspaper article styled with CSS typography principles
+- Demonstrates text hierarchy, font weights, italics, and first-letter styling
+- Focuses on readable and structured print-like layout
