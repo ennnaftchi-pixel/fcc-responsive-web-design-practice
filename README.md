@@ -407,3 +407,14 @@ Projects focused on styling and enhancing form layouts.
 - Demonstrates order, flex-grow, and flex-basis
 - Shows column flex direction inside cards
 - Responsive wrapping container
+
+---
+
+## Typography
+
+### Nutrition Label
+**Folder:** `css/typography/nutrition-label/`
+
+- Recreates a nutrition label using CSS typography principles
+- Focuses on fonts, spacing, alignment, and hierarchy
+- Uses flexbox and text formatting for structured layout
