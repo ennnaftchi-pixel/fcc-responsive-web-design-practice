@@ -388,3 +388,11 @@ Projects focused on styling and enhancing form layouts.
 - Demonstrates flex wrapping and centered layout
 - Uses gap spacing and max-width containers
 - Applies object-fit and border-radius for visual polish
+
+### Pricing Plans Layout
+**Folder:** `css/flexbox/pricing-plans/`
+
+- Flexbox pricing card layout
+- Demonstrates order, flex-grow, and flex-basis
+- Shows column flex direction inside cards
+- Responsive wrapping container

@@ -22,3 +22,11 @@ Topics practiced:
 - Demonstrates wrapping rows and centered alignment
 - Uses gap spacing and max-width containers
 - Applies object-fit for consistent image cropping
+
+### Pricing Plans Layout
+**Folder:** `pricing-plans/`
+
+- Pricing cards arranged using Flexbox
+- Demonstrates flex-basis and flex-grow
+- Uses order to control visual position
+- Shows column layout inside flex items
