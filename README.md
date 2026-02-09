@@ -246,6 +246,17 @@ This repository serves as a **learning log** and reference point for my front-en
 
 # CSS Projects
 
+## Certification projects
+
+### Playing Cards Layout
+**Folder:** `css/playing-cards/`
+
+- Playing card components using Flexbox
+- Demonstrates align-self positioning
+- Uses flex spacing and wrapping
+- Card-style bordered layout
+
+
 ## Basic CSS
 
 ### Cafe Menu Styling
