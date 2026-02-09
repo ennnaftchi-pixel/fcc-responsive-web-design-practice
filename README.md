@@ -425,3 +425,14 @@ Projects focused on styling and enhancing form layouts.
 - Newspaper article styled with CSS typography principles
 - Demonstrates text hierarchy, font weights, italics, and first-letter styling
 - Focuses on readable and structured print-like layout
+
+---
+
+## Accessibility
+
+### Accessibility Quiz
+**Folder:** `css/accessibility/accessibility-quiz/`
+
+- Accessibility-focused HTML/CSS project
+- Demonstrates semantic elements, ARIA labels, and form accessibility
+- Includes screen-reader only text and accessible navigation
