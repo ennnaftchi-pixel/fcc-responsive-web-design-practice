@@ -371,7 +371,7 @@ Projects focused on styling and enhancing form layouts.
 
 ---
 
-## The Box Model Chapter
+## The Box Model
 
 ### Rothko Painting
 **Folder:** `css/the-box-model/rothko-painting/`

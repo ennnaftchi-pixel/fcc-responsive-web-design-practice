@@ -1,26 +1,36 @@
 # The Box Model — CSS Projects
 
-This folder contains projects focused on the **CSS Box Model** and related layout concepts.
+This folder contains projects focused on the **CSS Box Model** and layout behavior in CSS.
 
-Topics practiced:
+Core concepts practiced:
 
 - Content, padding, border, and margin
 - box-sizing behavior
 - Element sizing and centering
 - Borders and visual framing
-- CSS transforms and filters
+- Shadows and blur effects
+- CSS transforms and rotation
+- Visual layering with nested elements
 
 ---
 
 ## Projects
 
 ### Rothko Painting
-- Demonstrates box model spacing and layering
-- Uses padding, borders, margin, blur filters, shadows, and transforms
-- Builds an abstract painting using nested divs
+**Folder:** `rothko-painting/`
+
+- Abstract painting built using nested divs
+- Demonstrates padding, margin, borders, and spacing control
+- Uses border-radius, box-shadow, and blur filters
+- Applies rotation transforms for artistic effect
+- Focuses on layering and visual hierarchy
+
 
 ### Confidential Email
-- Demonstrates box model layout and element framing
-- Uses borders, padding, centered containers, and transforms
+**Folder:** `confidential-email/`
+
+- Styled confidential message layout
+- Demonstrates box model spacing and container framing
+- Uses borders, padding, and centered layouts
 - Includes rotated “CONFIDENTIAL” and “TOP SECRET” stamps
-- Shows blurred sensitive information using CSS filters
+- Sensitive text hidden using CSS blur filters
