@@ -254,22 +254,16 @@ This repository serves as a **learning log** and reference point for my front-en
 - Typography and layout styling
 - Link pseudo-classes
 
----
-
 ### Business Card
 **Folder:** `css/basic-css/business-card/`
 
 - Card layout and box model
-
----
 
 ### Styled To-Do List
 **Folder:** `css/basic-css/styled-todo-list/`
 
 - Checklist styling
 - Focus and hover states
-
----
 
 ### Blog Post Card
 **Folder:** `css/basic-css/blog-post-card/`
@@ -298,16 +292,12 @@ This repository serves as a **learning log** and reference point for my front-en
 - Uses ::before and ::after
 - Uses :target to reveal sections
 
----
-
 ### Parent Teacher Conference Form
 **Folder:** `css/pseudo-classes-and-elements/parent-teacher-conference-form/`
 
 - Styled form layout
 - Custom radio buttons
 - Checked and hover states
-
----
 
 ### Job Application Form
 **Folder:** `css/pseudo-classes-and-elements/job-application-form/`
@@ -325,8 +315,6 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates rgb, rgba, hsl, hsla
 - Gradient backgrounds
 - Color shadows and blending
-
----
 
 ### Colored Boxes
 **Folder:** `css/colors/colored-boxes/`
@@ -388,3 +376,15 @@ Projects focused on styling and enhancing form layouts.
 - Demonstrates CSS box model spacing, borders, and centered containers
 - Uses transforms for rotated security stamps
 - Uses blur filters to hide sensitive information
+
+---
+
+## Flexbox
+
+### Photo Gallery
+**Folder:** `css/flexbox/photo-gallery/`
+
+- Responsive image gallery using CSS Flexbox
+- Demonstrates flex wrapping and centered layout
+- Uses gap spacing and max-width containers
+- Applies object-fit and border-radius for visual polish
