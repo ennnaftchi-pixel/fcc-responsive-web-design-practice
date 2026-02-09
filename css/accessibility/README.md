@@ -22,3 +22,11 @@ Topics practiced:
 - Includes form elements, radio buttons, select menus, and textareas
 - Uses `.sr-only` class for screen-reader-only content
 - Focuses on smooth navigation and accessibility best practices
+
+### Tribute Page
+**Folder:** `css/accessibility/tribute-page/`
+
+- Simple tribute page for Marie Curie
+- Demonstrates semantic HTML with `<main>`, `<figure>`, `<figcaption>`, `<section>`, `<p>`, and `<a>` tags
+- Uses accessible text and images with proper alt attributes
+- Focuses on readability, layout, and clear content hierarchy

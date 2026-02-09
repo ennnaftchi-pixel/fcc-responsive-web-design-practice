@@ -436,3 +436,10 @@ Projects focused on styling and enhancing form layouts.
 - Accessibility-focused HTML/CSS project
 - Demonstrates semantic elements, ARIA labels, and form accessibility
 - Includes screen-reader only text and accessible navigation
+
+### Tribute Page
+**Folder:** `css/accessibility/tribute-page/`
+
+- Tribute page for Marie Curie
+- Demonstrates semantic HTML and accessible image and text layout
+- Focuses on readability, proper headings, and links
