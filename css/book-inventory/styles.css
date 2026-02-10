@@ -1,0 +1,86 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 8px;
+  text-align: left;
+}
+
+/* ---------- attribute selectors for rows ---------- */
+
+tr[class="read"] {
+  background-image: linear-gradient(#e6ffe6, #ccffcc);
+}
+
+tr[class="to-read"] {
+  background-image: linear-gradient(#fff4cc, #ffe599);
+}
+
+tr[class="in-progress"] {
+  background-image: linear-gradient(#e6f0ff, #cce0ff);
+}
+
+/* ---------- all spans inline-block ---------- */
+
+span {
+  display: inline-block;
+}
+
+/* ---------- status + rate base sizing ---------- */
+
+span[class="status"],
+span[class^="rate"] {
+  height: 24px;
+  width: 90px;
+  padding: 4px;
+}
+
+/* ---------- status styling by row ---------- */
+
+tr[class="to-read"] span[class="status"] {
+  border: 2px solid #cc9900;
+  background-image: linear-gradient(#fff0b3, #ffd966);
+}
+
+tr[class="read"] span[class="status"] {
+  border: 2px solid #2d862d;
+  background-image: linear-gradient(#b3ffb3, #66ff66);
+}
+
+tr[class="in-progress"] span[class="status"] {
+  border: 2px solid #3366cc;
+  background-image: linear-gradient(#b3ccff, #6699ff);
+}
+
+/* ---------- rate stars container ---------- */
+
+span[class^="rate"] > span {
+  border: 1px solid #444;
+  border-radius: 50%;
+  margin: 2px;
+  height: 14px;
+  width: 14px;
+  background-color: #eee;
+}
+
+/* ---------- rating fills ---------- */
+
+span[class~="one"] span:first-child {
+  background-image: linear-gradient(gold, orange);
+}
+
+span[class~="two"] span:nth-child(-n+2) {
+  background-image: linear-gradient(gold, orange);
+}
+
+span[class~="three"] span {
+  background-image: linear-gradient(gold, orange);
+}

@@ -256,6 +256,15 @@ This repository serves as a **learning log** and reference point for my front-en
 - Uses flex spacing and wrapping
 - Card-style bordered layout
 
+### Book Inventory
+**Folder:** `css/book-inventory/`
+
+- Certification-style CSS project using attribute selectors
+- Styles table rows and elements based on attribute values
+- Demonstrates selector precision and conditional styling
+- Uses gradients and visual rating indicators
+
+---
 
 ## Basic CSS
 
@@ -464,6 +473,7 @@ Projects focused on styling and enhancing form layouts.
 - Shows layering, offsets, and clip-path usage
 
 ---
+
 ## Attribute Selectors
 
 ### Balance Sheet Project
