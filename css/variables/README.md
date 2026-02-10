@@ -23,3 +23,12 @@ This folder contains **projects and exercises focused on CSS variables** (custom
 - Uses Flexbox to align and distribute buildings
 - Windows and building colors controlled with variables
 - Responsive night mode using variable overrides
+
+### Availability Table
+**Folder:** `variables/availability-table/`
+
+- Displays team availability using a color-coded table
+- Cell colors controlled by CSS variables for different availability levels
+- Uses neumorphic-style shading and hover effects
+- Includes a gradient legend showing availability levels
+- Responsive and visually clear for multiple time slots

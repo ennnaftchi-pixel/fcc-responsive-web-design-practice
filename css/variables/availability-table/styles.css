@@ -1,0 +1,116 @@
+:root {
+  --color0: #2e2e2e;
+  --color1: #3b5998;
+  --color2: #4a90e2;
+  --color3: #50e3c2;
+  --color4: #f5a623;
+  --color5: #e94e77;
+
+  --solid-border: 2px solid #555;
+  --dashed-border: 2px dashed #555;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #1f1f1f, #2e2e2e);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 30px;
+  color: #fff;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+
+thead th {
+  background-color: #222;
+  color: #fff;
+  font-weight: 600;
+  padding: 18px 25px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+tbody th.time {
+  background-color: #333;
+  font-weight: 600;
+  text-align: center;
+  padding: 15px 20px;
+}
+
+td {
+  width: 80px;
+  height: 50px;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  border-right: 1px solid #444;
+}
+
+/* Alternating bottom borders */
+.sharp td {
+  border-bottom: var(--solid-border);
+}
+.half td {
+  border-bottom: var(--dashed-border);
+}
+
+/* Neumorphic-style cell colors */
+.available-0 { background-color: var(--color0); border-radius: 10px; }
+.available-1 { background-color: var(--color1); border-radius: 10px; }
+.available-2 { background-color: var(--color2); border-radius: 10px; }
+.available-3 { background-color: var(--color3); border-radius: 10px; }
+.available-4 { background-color: var(--color4); border-radius: 10px; }
+.available-5 { background-color: var(--color5); border-radius: 10px; }
+
+/* Hover glow effect */
+td:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(255,255,255,0.4);
+  cursor: pointer;
+}
+
+/* Legend styling */
+#legend {
+  margin-top: 40px;
+  text-align: center;
+}
+#legend span {
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+#legend-gradient {
+  width: 350px;
+  height: 35px;
+  border-radius: 12px;
+  background-image: linear-gradient(
+    to right,
+    var(--color0) 0%,
+    var(--color0) 16.66%,
+    var(--color1) 16.66%,
+    var(--color1) 33.33%,
+    var(--color2) 33.33%,
+    var(--color2) 50%,
+    var(--color3) 50%,
+    var(--color3) 66.66%,
+    var(--color4) 66.66%,
+    var(--color4) 83.33%,
+    var(--color5) 83.33%,
+    var(--color5) 100%
+  );
+  box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+}
