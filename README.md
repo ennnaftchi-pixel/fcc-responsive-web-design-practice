@@ -464,3 +464,13 @@ Projects focused on styling and enhancing form layouts.
 - Shows layering, offsets, and clip-path usage
 
 ---
+## Attribute Selectors
+
+### Balance Sheet Project
+**Folder:** `css/attribute-selectors/balance-sheet-project/`
+
+- Financial balance sheet layout using semantic HTML tables
+- Demonstrates CSS attribute selectors like `[class~="sr-only"]` and `[class]`
+- Uses visually-hidden accessibility helper patterns
+- Includes sticky year header and structured table styling
+- Focuses on selector precision and accessibility
