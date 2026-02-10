@@ -504,3 +504,17 @@ Projects focused on styling and enhancing form layouts.
 - Uses media queries for multiple screen sizes
 - Demonstrates floats and pseudo-elements
 - Focuses on adaptive layout behavior
+
+---
+
+## Variables Module
+**Folder:** `css/variables/`
+
+- Contains projects demonstrating **CSS custom properties**
+- Projects use variables for colors, layout consistency, and responsive changes
+
+### City Skyline
+**Folder:** `css/variables/city-skyline/`
+- City skyline created using CSS variables
+- Layered foreground and background buildings
+- Flexbox alignment and night mode via media queries
