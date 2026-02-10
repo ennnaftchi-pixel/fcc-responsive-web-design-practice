@@ -484,3 +484,15 @@ Projects focused on styling and enhancing form layouts.
 - Uses visually-hidden accessibility helper patterns
 - Includes sticky year header and structured table styling
 - Focuses on selector precision and accessibility
+
+---
+
+## Responsive Design
+
+### Piano
+**Folder:** `css/responsive-design/piano/`
+
+- Responsive piano keyboard layout
+- Uses media queries for multiple screen sizes
+- Demonstrates floats and pseudo-elements
+- Focuses on adaptive layout behavior
