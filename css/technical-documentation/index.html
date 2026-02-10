@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technical Documentation Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav id="navbar">
+    <header>JavaScript Documentation</header>
+    <a class="nav-link" href="#Introduction">Introduction</a>
+    <a class="nav-link" href="#Variables_and_Constants">Variables and Constants</a>
+    <a class="nav-link" href="#Functions">Functions</a>
+    <a class="nav-link" href="#Loops">Loops</a>
+    <a class="nav-link" href="#Events">Events</a>
+  </nav>
+
+  <!-- Main content -->
+  <main id="main-doc">
+
+    <section class="main-section" id="Introduction">
+      <header>Introduction</header>
+      <p>JavaScript is a versatile programming language primarily used for web development.</p>
+      <p>It allows developers to create dynamic and interactive web pages.</p>
+      <code>console.log('Hello, world!');</code>
+      <p>It is executed in the browser and can also run on the server via Node.js.</p>
+      <ul>
+        <li>Dynamic typing</li>
+        <li>Event-driven programming</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Variables_and_Constants">
+      <header>Variables and Constants</header>
+      <p>Variables can be declared using <code>var</code>, <code>let</code>, or <code>const</code>.</p>
+      <p>Constants declared with <code>const</code> cannot be reassigned.</p>
+      <code>let x = 10;</code>
+      <code>const y = 5;</code>
+      <ul>
+        <li>Scope matters: block vs function</li>
+        <li>Hoisting affects <code>var</code></li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Functions">
+      <header>Functions</header>
+      <p>Functions allow code reuse and modularity.</p>
+      <p>They can be declared in multiple ways.</p>
+      <code>function greet(name) { return 'Hello ' + name; }</code>
+      <code>const greet = (name) => `Hello ${name}`;</code>
+      <ul>
+        <li>Function declarations</li>
+        <li>Function expressions</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Loops">
+      <header>Loops</header>
+      <p>Loops allow repeated execution of code blocks.</p>
+      <p>JavaScript supports <code>for</code>, <code>while</code>, and <code>do...while</code> loops.</p>
+      <code>for (let i=0; i<5; i++) { console.log(i); }</code>
+      <code>while(condition) { /* code */ }</code>
+      <ul>
+        <li>Control flow with <code>break</code> and <code>continue</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Events">
+      <header>Events</header>
+      <p>Events are actions that occur in the browser.</p>
+      <p>JavaScript can respond to these events using event listeners.</p>
+      <code>element.addEventListener('click', handleClick);</code>
+      <code>function handleClick() { alert('Clicked!'); }</code>
+      <ul>
+        <li>Click events</li>
+        <li>Keyboard events</li>
+      </ul>
+    </section>
+
+  </main>
+
+</body>
+</html>

@@ -264,6 +264,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates selector precision and conditional styling
 - Uses gradients and visual rating indicators
 
+### Technical Documentation Page
+**Folder:** `css/technical-documentation/`
+
+- Fixed sidebar documentation layout
+- Responsive sidebar + main content
+- Demonstrates scrollable sections and anchor links
+- Focuses on CSS layout, typography, and responsive behavior
+
 ---
 
 ## Basic CSS
