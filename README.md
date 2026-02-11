@@ -513,8 +513,29 @@ Projects focused on styling and enhancing form layouts.
 - Contains projects demonstrating **CSS custom properties**
 - Projects use variables for colors, layout consistency, and responsive changes
 
-### City Skyline
-**Folder:** `css/variables/city-skyline/`
-- City skyline created using CSS variables
-- Layered foreground and background buildings
-- Flexbox alignment and night mode via media queries
+### Projects
+
+- **City Skyline** – `css/variables/city-skyline/`
+  - Layered foreground and background buildings
+  - Flexbox alignment and night mode via media queries
+
+- **Availability Table** – `css/variables/availability-table/`
+  - Team availability table
+  - Colors and hover effects controlled via CSS variables
+  - Gradient legend to indicate availability levels
+
+---
+
+## Grid Module
+**Folder:** `css/grid/`
+
+- Contains projects demonstrating **CSS Grid layout**
+- Focuses on grid containers, columns, rows, and responsive grid structure
+- Uses media queries with grid-based layouts
+
+### Projects
+
+- **Magazine Layout** – `css/grid/magazine-project/`
+  - Magazine-style page built with CSS Grid
+  - Multi-column text layout and image grid sections
+  - Responsive behavior with media queries
