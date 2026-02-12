@@ -272,6 +272,14 @@ This repository serves as a **learning log** and reference point for my front-en
 - Demonstrates scrollable sections and anchor links
 - Focuses on CSS layout, typography, and responsive behavior
 
+### Product Landing Page
+**Folder:** `css/product-landing-page/`
+
+- Responsive landing page for a product
+- Fixed navigation bar with anchor links
+- Feature, video, and sign-up sections
+- Demonstrates layout with Flexbox, responsive design, and media queries
+
 ---
 
 ## Basic CSS
@@ -526,16 +534,20 @@ Projects focused on styling and enhancing form layouts.
 
 ---
 
-## Grid Module
-**Folder:** `css/grid/`
+## Grid
 
-- Contains projects demonstrating **CSS Grid layout**
-- Focuses on grid containers, columns, rows, and responsive grid structure
-- Uses media queries with grid-based layouts
+### Magazine Layout
+**Folder:** `css/grid/magazine-project/`
 
-### Projects
+- Magazine-style responsive layout using CSS Grid
+- Multi-section content with hero, text, and image areas
+- Demonstrates grid columns and structured article layout
+- Includes responsive behavior with media queries
 
-- **Magazine Layout** – `css/grid/magazine-project/`
-  - Magazine-style page built with CSS Grid
-  - Multi-column text layout and image grid sections
-  - Responsive behavior with media queries
+### Newspaper Layout
+**Folder:** `css/grid/newspaper-layout/`
+
+- Newspaper-style page layout using CSS Grid
+- Uses grid-template-areas for visual layout mapping
+- Demonstrates multi-row and multi-column grid structure
+- Combines feature articles, image block, and small articles
