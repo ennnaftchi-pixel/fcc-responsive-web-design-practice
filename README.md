@@ -565,3 +565,8 @@ Contains projects showcasing **CSS animations** using keyframes, transforms, and
 - **Ferris Wheel** – `css/animations/ferris-wheel/`
   - Animated Ferris Wheel with rotating spokes and cabins
   - Demonstrates keyframe animations, absolute positioning, and transform-origin
+
+- **Moon Orbit** – `css/animations/moon-orbit/`
+  - Earth–Moon orbital animation
+  - Demonstrates rotate + translate animation technique
+  - Uses centered transforms and continuous keyframe rotation
