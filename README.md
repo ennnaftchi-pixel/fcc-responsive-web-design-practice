@@ -551,3 +551,17 @@ Projects focused on styling and enhancing form layouts.
 - Uses grid-template-areas for visual layout mapping
 - Demonstrates multi-row and multi-column grid structure
 - Combines feature articles, image block, and small articles
+
+---
+
+## Animations
+
+**Folder:** `css/animations/`
+
+Contains projects showcasing **CSS animations** using keyframes, transforms, and interactive visual effects.
+
+### Projects
+
+- **Ferris Wheel** – `css/animations/ferris-wheel/`
+  - Animated Ferris Wheel with rotating spokes and cabins
+  - Demonstrates keyframe animations, absolute positioning, and transform-origin
