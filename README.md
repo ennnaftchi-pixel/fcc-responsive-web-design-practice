@@ -570,3 +570,7 @@ Contains projects showcasing **CSS animations** using keyframes, transforms, and
   - Earth–Moon orbital animation
   - Demonstrates rotate + translate animation technique
   - Uses centered transforms and continuous keyframe rotation
+
+- **Penguin** – `css/animations/penguin/`
+  - CSS illustrated penguin with animated waving arm
+  - Demonstrates CSS variables and keyframe animation

@@ -14,3 +14,10 @@ Focuses on **transform, keyframes, and animated effects**.
 - Earth–Moon orbital animation
 - Uses rotation + translate transforms
 - Demonstrates nested animated elements
+
+## Penguin
+`css/animations/penguin/`
+- CSS illustrated penguin scene
+- Uses CSS variables, gradients, and transforms
+- Includes keyframe arm wave animation
+- Demonstrates layered positioning and custom properties
